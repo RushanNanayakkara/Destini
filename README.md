@@ -1,6 +1,6 @@
 # Destini 🤔
 
-## Our Goal
+## Description
  Destini is a choose your own adventure game. You can choose different choices to reach the end of the adventure.
  This project is one of the learning projects done for the flutter fundamentals course by appbrewery.
 
